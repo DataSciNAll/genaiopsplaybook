@@ -15,12 +15,12 @@ There will be four phases: Prototype, Development, Experimentation/Testing and O
 
 | **Prototype** |  **Development**  | **Experimentation** |  **Operations**  |
 |---------------|-------------------|---------------------|------------------|
-| [Business Use Case](./Playbook/1_Prototype/README.md) | [Gen AI Patterns](./Playbook/2_Development/README.md) | [Test Case Development](./Playbook/3_Experimentation/README.md) | [CI/CD](./Playbook/4_Operations/README.md)|
-| [Model Benchmarks](./Playbook/1_Prototype/README.md) | [Prompt Engineering](./Playbook/2_Development/README.md)|[System Testing](./Playbook/3_Experimentation/README.md) | [Monitoring](./Playbook/4_Operations/README.md) |
-| [Prompt Playground/Unit Testing](./Playbook/1_Prototype/README.md) | [RAG](./Playbook/2_Development/README.md) | [UAT Testing](./Playbook/3_Experimentation/README.md) | [Deployment Review Board](./Playbook/4_Operations/README.md) |
-| [Impact Assessment](./Playbook/1_Prototype/README.md) (Responsible AI) | [Fine-tuning](./Playbook/2_Development/README.md) || [Blue-Green Deployments](./Playbook/4_Operations/README.md)|
-|  | [Orchestration](./Playbook/2_Development/README.md) | ||
-|  | [Application](./Playbook/2_Development/README.md) | ||
+| [Business Use Case](./Playbook/1_Prototype/README.md#business-use-case) | [Gen AI Patterns](./Playbook/2_Development/README.md#gen-ai-architecture-patterns) | [Test Case Development](./Playbook/3_Experimentation/README.md#test-case-development) | [CI/CD](./Playbook/4_Operations/README.md#deployment-pipelines-in-cicd-repos)|
+| [Model Benchmarks](./Playbook/1_Prototype/README.md#model-benchmarks) | [Prompt Engineering](./Playbook/2_Development/README.md#prompt-engineering)|[System Testing](./Playbook/3_Experimentation/README.md#system-testing) | [Monitoring](./Playbook/4_Operations/README.md#monitoring) |
+| [Prompt Playground/Unit Testing](./Playbook/1_Prototype/README.md#prompt-playground-unit-testing) | [RAG](./Playbook/2_Development/README.md#rag) | [UAT Testing](./Playbook/3_Experimentation/README.md#uat-testing) | [Deployment Review Board](./Playbook/4_Operations/README.md#development-review-boards) |
+| [Impact Assessment](./Playbook/1_Prototype/README.md#impact-analysis) (Responsible AI) | [Fine-tuning](./Playbook/2_Development/README.md#fine-tuning) || [Blue-Green Deployments](./Playbook/4_Operations/README.md#bluegreen-deployments)|
+|  | [Orchestration](./Playbook/2_Development/README.md#orchestration) | ||
+|  | [Application](./Playbook/2_Development/README.md#application) | ||
 
 
 ## DevOps Lifecycles

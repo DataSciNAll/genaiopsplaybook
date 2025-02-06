@@ -2,7 +2,7 @@
 <h4 style="text-align: center;">GenAIOps playbook of crowd-source materials to deploy your Gen AI apps to production</h4>
 <br></br>
 
-![Development Phase](./docs/Dev.jpg)
+![Development Phase](/docs/Dev.jpg)
 
 <br></br>
 # DEVELOPMENT

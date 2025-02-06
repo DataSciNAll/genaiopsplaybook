@@ -1,18 +1,19 @@
-# GenAIOps Playbook
-GenAIOps playbook of crowd-source materials to deploy your Gen AI apps to production
+<h1 style="text-align: center;">GenAIOps Playbook</h1>
+<h4 style="text-align: center;">GenAIOps playbook of crowd-source materials to deploy your Gen AI apps to production</h4>
+<br></br>
+
 
 We are thrilled to share the best tools, guides, and insights on GenAIOps from our vibrant developer community. We hope that this blog can become your go-to playbook for mastering GenAIOps, offering a comprehensive workflow that you can leverage for seamless production deployments. We love to crowd-source this playbook and encourage you to share your top resources and suggestions via pull requests.  As a community, we can share our best practices, lessons learned and learing resources to build the future of Generative AI applications together.  In today's world, it is not the technology that is the most challenging rather the process and this is the key blocker we hope to overcome.
 
 There will be four phases: Prototype, Development, Experimentation/Testing and Operations.  Here is a digram of this conceptual model and will leverage it as a Table of contents for developers.  This is not an industry or Microsoft standard for GenAIOps.
+<br></br>
 
-## Diagram
+
 
 ![GenAIOpsWorkflow diagram ](./docs/GenAIOps.jpg)
 
-
-## Table of Contents
-
-
+<br></br>
+# TABLE OF CONTENTS
 | **Prototype** |  **Development**  | **Experimentation** |  **Operations**  |
 |---------------|-------------------|---------------------|------------------|
 | [Business Use Case](./Playbook/1_Prototype/README.md#business-use-case) | [Gen AI Patterns](./Playbook/2_Development/README.md#gen-ai-architecture-patterns) | [Test Case Development](./Playbook/3_Experimentation/README.md#test-case-development) | [CI/CD](./Playbook/4_Operations/README.md#deployment-pipelines-in-cicd-repos)|

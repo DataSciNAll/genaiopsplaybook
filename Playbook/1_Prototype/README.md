@@ -1,5 +1,5 @@
 # GenAIOps Playbook
-GenAIOps playbook of crowd-source materials to deploy your GE apps to production
+GenAIOps playbook of crowd-source materials to deploy your Gen AI apps to production
 
 ## Prototype
 We need to shift our mindsets from the limitations of technology to focus on the potential of the technology with new AI Innovations.  In previous technology innovations developers needed to set expectations on the art of the possible and be in the driver seat to avoid projct overruns.  In today's application development project we need the business users in the driver's seat to fully understand the business processes, core competencies, business strategy and industry to learn where is the best places to apply this technology.  

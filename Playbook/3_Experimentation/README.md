@@ -16,6 +16,7 @@ A Golden Data Set will be your list of Question & Answer pairs for your GenAI Ap
 Additionally, we will have different evaluation scenarios that we should conduct in System and UAT testing as milestones for governance teams to review prior to deployment to production.  These evaluations scenarios are; Quality, Safety, RAI, Conversational and Adversarial.
 
 1. [RAG Evaluation Overview](https://github.com/Azure-Samples/ai-rag-chat-evaluator?tab=readme-ov-file#evaluating-a-rag-chat-app)
+1. [Golden Data Set](https://github.com/microsoft/promptflow-resource-hub/blob/main/sample_gallery/golden_dataset/copilot-golden-dataset-creation-guidance.md)
 1. [Model Evaluation Overview](https://azure.github.io/Cloud-Native/30-days-of-ia-2024/evaluate-with-ai)
 1. [RAG Deep Dive Evaluation Webinar](https://developer.microsoft.com/en-us/reactor/events/24578/)
 1. [Code samples for eval scripts](https://github.com/Azure-Samples/azureai-samples/tree/main/scenarios/evaluate#objective)
@@ -59,7 +60,7 @@ The goal of system testing is to iterate over the different permutations of test
 
 ### RAI Evaluations
 1. [Responsible AI Foundry Overview](https://learn.microsoft.com/en-us/azure/ai-studio/responsible-use-of-ai-overview)
-1. [Content Filters](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/content-filters)
+1. [Content Filters](https://learn.microsoft.com/en-us/azure/ai-studio/concepts/content-filtering)
 1. [Blocklists](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/use-blocklists?tabs=api)
 1. [RAI Workshops](https://github.com/Azure-Samples/RAI-workshops?tab=readme-ov-file)
 

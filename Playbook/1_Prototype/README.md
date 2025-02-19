@@ -41,6 +41,7 @@ Azure AI Foundry has a number of tools for developers, business users, data scie
 3. [AI Toolkit for VS Code](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/ai-toolkit-for-visual-studio-code-october-2024-update-highlights/4298718)
 4. [SDK](https://techcommunity.microsoft.com/blog/aiplatformblog/ignite-2024-announcing-the-azure-ai-foundry-sdk/4295862)
 5. [Prompt Playground](https://learn.microsoft.com/en-us/azure/ai-services/openai/use-your-data-quickstart?tabs=keyless%2Cjavascript-keyless%2Ctypescript-keyless%2Cpython-new&pivots=ai-foundry-portal#chat-playground)
+6. [Manual Evaluation](AI Foundry Manual Evaluation)
 
 ### OpenAI on your Data
 1. [Ground your data](https://techcommunity.microsoft.com/blog/azure-ai-services-blog/on-your-data-is-now-generally-available-in-azure-openai-service/4059514)

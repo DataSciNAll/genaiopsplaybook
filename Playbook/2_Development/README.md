@@ -32,7 +32,10 @@ LLM models are trained on data on the public internet and their published dates 
 
 ### RAG Design Patterns
 1. [Getting Started](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-solution-design-and-evaluation-guide)
-2. Read full series of 6 articles after Getting started in table of contents; Preparation Phase, Chunking Phase, Chunk Enrichment phase,   embedding Phase, Information-retrieval phase and LLM end-to-end evaluation phase
+1. Read full series of 6 articles after Getting started in table of contents; Preparation Phase, Chunking Phase, Chunk Enrichment phase,   embedding Phase, Information-retrieval phase and LLM end-to-end evaluation phase
+1. [RAGHack](https://aka.ms/RAGhack)
+1. [RAG Deep Dive/Customizations](https://aka.ms/RAGDeepDive)
+1. [RAG Guides](https://gateway.on24.com/wcc/eh/4304051/category/141813/rag-retrieval-augmented-generation)
 
 ### RAG with OpenAI on your Data
 1. [Azure OpenAI on your Data user guide](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/use-your-data?tabs=ai-search%2Ccopilot)
@@ -81,8 +84,16 @@ Insert Description Here
 Insert Description Here
 
 1. [UX Best practices](https://learn.microsoft.com/en-us/microsoft-cloud/dev/copilot/isv/UX-Guidance)
-2. [Contoso Real Estate Reference Architecture](https://techcommunity.microsoft.com/blog/appsonazureblog/announcing-contoso-real-estate-javascript-composable-application-reference-sampl/3827097)
-3. [Contoso Real Estate Code Sample](https://github.com/Azure-Samples/contoso-real-estate)
-4. [Develop with SK](https://learn.microsoft.com/en-us/azure/ai-studio/how-to/develop/semantic-kernel)
-5. [Develop with langchain](https://learn.microsoft.com/en-us/azure/ai-studio/how-to/develop/langchain)
-6. [AI Templates](https://learn.microsoft.com/en-us/azure/ai-studio/how-to/develop/ai-template-get-started?tabs=python)
+1. [Contoso Real Estate Reference Architecture](https://techcommunity.microsoft.com/blog/appsonazureblog/announcing-contoso-real-estate-javascript-composable-application-reference-sampl/3827097)
+1. [Contoso Real Estate Code Sample](https://github.com/Azure-Samples/contoso-real-estate)
+1. [Develop with SK](https://learn.microsoft.com/en-us/azure/ai-studio/how-to/develop/semantic-kernel)
+1. [Develop with langchain](https://learn.microsoft.com/en-us/azure/ai-studio/how-to/develop/langchain)
+1. [AI Templates](https://learn.microsoft.com/en-us/azure/ai-studio/how-to/develop/ai-template-get-started?tabs=python)
+1. [Book of AI](https://thebookof.ai/reference/cli/)
+
+<br></br>
+## Unit Testing
+1. [Manual Evaluation in AI Foundry for Citizen Developers](https://learn.microsoft.com/en-us/azure/ai-studio/how-to/evaluate-prompts-playground)
+1. [Testing Scenarios](https://dev.to/rahulbhave/crafting-effective-unit-tests-for-generative-ai-applications-lp1)
+1. [Golden Data Set](https://medium.com/data-science-at-microsoft/the-path-to-a-golden-dataset-or-how-to-evaluate-your-rag-045e23d1f13f)
+1. [Intelligenct App walk-thru](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/build-intelligent-apps-code-first-with-prompty-and-azure-ai/4274248)

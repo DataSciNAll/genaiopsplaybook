@@ -41,3 +41,12 @@ The GenAIOps model contains all the necessary steps for building Generative AI a
 
 ## Contributors
 A special thanks to these Cloud advocates who really accelerate our AI Innovations.  Pamela Fox, Nitya Narasimhan, Marlene Mhangami, Facundo Santiago, Farzad Sunavala, Cassie Breviu, Cedric Vidal, Dan Taylor, Rob Chambers, Meera Kuurup, Reza Bonyadi, Jennifer Marsman, Seth Juarez, Priya Vergadia, Apurva Mody, John Alexander, Casey Doyle, Govind Kamtamneni, Piyush Jain, Deepsha Menghani, Shimin Zhang, Paulo Lacerda and Lino Tadros.
+
+### Sample Repos
+1. [Contoso Creative Writer](https://github.com/Azure-Samples/contoso-creative-writer?tab=readme-ov-file)
+1. [Contoso Creative Writer Langchain](https://github.com/Azure-Samples/contoso-creative-writer-langchain)
+1. [RAG Notebook](https://github.com/Azure-Samples/rag-with-azure-ai-search-notebooks)
+1. [RAG Chat Evaluator](https://github.com/Azure-Samples/ai-rag-chat-evaluator)
+1. [Oberservability with Fitness Tracker](https://github.com/Azure/ai-foundry-workshop/blob/main/docs/2-notebooks/3-quality_attributes/1-Observability.ipynb)
+1. [Dan Taylor AI Foundry Demo content](https://github.com/qubitron/aifoundry-demo)
+1. [RAG Workshop](https://nitya.github.io/azure-ai-rag-workshop/)
